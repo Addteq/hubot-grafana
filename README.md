@@ -44,6 +44,7 @@ You can use one of the following strategies to host the generated images from Gr
 - [Amazon S3](https://github.com/stephenyeargin/hubot-grafana/wiki/Amazon-S3-Image-Hosting)
 - [Slack](https://github.com/stephenyeargin/hubot-grafana/wiki/Slack-Image-Hosting)
 - [Rocket.Chat](https://github.com/stephenyeargin/hubot-grafana/wiki/Rocket.Chat-Image-Hosting)
+- [Moxtra.Chat](https://github.com/Addteq/hubot-grafana/wiki/Moxtra-Grafana-Image-Hosting)
 
 ### Example Configuration
 
